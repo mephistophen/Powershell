@@ -1,4 +1,4 @@
 Powershell
 =======
 
-## Bienvenue sur le repository dédié aux script & fonctions Powershell de Synapsys ##
+## Bienvenue sur le repository dédié aux scripts & fonctions Powershell de Synapsys ##
