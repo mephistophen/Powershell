@@ -23,3 +23,7 @@ Un template type peut être trouvé ici : "url"
  - Snippets (Bout de code simple mais utile, une sorte de pense-bête)
  - Ressources (Documentations, Templates, Tutorial, etc...)
  
+ ```powershell
+ Get-ChildItem -Directory
+ ```
+ 
