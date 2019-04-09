@@ -13,7 +13,7 @@ Cet espace à pour but de mettre en commun nos ressources Powershell, de permett
  
  - Chaque script doit contenir une en tête contenant au minimum le nom de l'auteur (Si le script a été trouvé ailleurs, préciser la source)
 
- - Essayer au mieux de respecter les normes du langage Powershell (Pas d'alias, respect des normes de nommages des fonctions)
+ - Essayer au mieux de respecter les normes du language Powershell (Pas d'alias, respect des normes de nommages des fonctions)
 
 **Composition de l'arborescence :**
 
